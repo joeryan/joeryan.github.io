@@ -22,20 +22,27 @@ packet tracer meeting to chat with other network folks.  Hopefully I can get at
 least a couple people to join me to chat about what's new and cool in the network
 space.
 
-Number two is finding a way to provide that experience and help people find out
+Number two is finding a way to provide that experience and help people find out \
 about those other branches of the Tech field.  There is training out there for
 low cost or no cost, but it seems like programming is the cool thing and it makes
-everyone think that-s what working in the technology sector is all about.  There
-are jobs and careers out there in networking, data analysis, storage,
-virtualization, and support.  Another problem is gaining experience in those
-areas.  Network gear, storage, and servers all cost real money and no one wants
-learners playing with their production systems.  There has to be a good way to let
-people experiment and learn with hardware the same way we can break software and
-learn what works and what doesn't without selling our left arm.  To try and help
-out with that, I've got plans to start some sort of non-profit space to let
-people experiment and learn on production level equipment.  I want a place that
-they anyone can come and learn or experiment on something new without fearing that
-they might break things that "need five nines of uptime."
+everyone think that is what working in the technology sector is all about.  There
+are other jobs and careers out there, in disciplines like networking, data analysis,
+storage, virtualization, servers, and desktop support.  A major problem is gaining
+experience in those areas.  Network gear, storage, and servers all cost real money
+and no one wants learners playing with their production systems.  There has to be
+a good way to let people experiment and learn with hardware the same way we can
+break software and learn what works and what doesn't without selling our left arm.  
+
+To try and help out with both these issues, I've got plans to start some sort of
+non-profit space to let people experiment, learn, and even gain some real world
+experience on production level equipment.  I want a place that anyone can come
+and learn or experiment on something new without fearing that
+they might break things that "need five nines of uptime."  I'm not sure how I'm
+going to manage to keep it going for long, but I do have a few grandiose ideas.
+ Getting it started should definitely help the technology
+community, local community, and businesses alike.  Long Live [Inner City Computing]!
 
 That's today's rant.  Hopefully it got someone else besides me energized and didn't
 upset anyone too badly.  Maybe the next post won't take so long to materialize.
+
+[Inner City Computing]:http:\\www.innercitycomputing.org
