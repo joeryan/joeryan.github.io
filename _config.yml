@@ -5,7 +5,7 @@ description: > # this means to ignore newlines until "baseurl:"
   Another blog about my journey learning new programming languages after a long
   absence.  Although I'm working as a network analyst, I really enjoy writing
   code and learning new languages more.  This follows my journey learning all
-  the latest and maybe even revisiting some older languages like C++
+  the latest new languages and maybe even revisiting some older languages like C++
 baseurl: ""
 url: "http://joeryan.github.io" # the base hostname & protocol for your site
 twitter_username: iamjoeryan
@@ -13,3 +13,4 @@ github_username:  joeryan
 
 # Build settings
 markdown: kramdown
+exclude: [vendor]
